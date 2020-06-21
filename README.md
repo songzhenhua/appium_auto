@@ -59,4 +59,4 @@
 ----------------------------------------------------------------------------
 实际报告如图：
 
-![readme_report.png](https://github.com/songzhenhua/selenium_ui_auto/blob/master/readme_report.png)
+![readme_report.png](https://github.com/songzhenhua/appium_auto/blob/master/README_report.png)
